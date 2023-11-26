@@ -27,7 +27,7 @@
 
 ![Hello berd][berd]
 
-[berd]:berd.jpg
+[berd]: berd.jpg
 
 ## Ссылки.
 
